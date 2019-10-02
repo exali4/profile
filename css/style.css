@@ -4,8 +4,13 @@
     text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 }
 
+section,footer {
+    padding: 20% ;
+}
+
+
 .parallax-container {
-    height: 20%;
+    height: 40%;
 }
 
 .parallax img {
@@ -16,8 +21,4 @@
 .clients img {
     max-width: 150px;
     filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
-}
-
-section,footer {
-    padding: 25px ;
 }
